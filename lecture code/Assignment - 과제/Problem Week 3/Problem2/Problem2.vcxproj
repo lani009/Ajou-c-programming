@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{41dc5c64-20d9-4317-b8d5-d0dfab97638f}</ProjectGuid>
-    <RootNamespace>StdBool</RootNamespace>
+    <ProjectGuid>{4a01f023-67c7-4374-b6b6-29242a1cb86c}</ProjectGuid>
+    <RootNamespace>Problem2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="StdBool.c" />
+    <ClCompile Include="DigitSum.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
