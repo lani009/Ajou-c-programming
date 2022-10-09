@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ebded259-7956-44d6-b185-fd5fe3cc5a36}</ProjectGuid>
-    <RootNamespace>Ascii</RootNamespace>
+    <ProjectGuid>{7765d83d-da5e-4898-b2a2-fb65d2827744}</ProjectGuid>
+    <RootNamespace>Problem1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Ascii.c" />
+    <ClCompile Include="DivisionCalc.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
